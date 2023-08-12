@@ -79,6 +79,7 @@ Al hacer clic en un área, lemonbar imprime el comando en la salida estándar, s
 ## AUTOR
 
 2012-2015 (C) The Lemon Man
+
 2023 (C) Alyssa
 
 El soporte Xinerama fue amablemente contribuido por Stebalien
